@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TU  xmlns="http://example.com"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://example.com tu.xsd">
+  <employee>
+    <post>Manager</post>
+    <salary>35000</salary>
+    <gender>male</gender>
+    <username>Ram</username>
+    <password>Abz</password>
+  </employee>
+  <employee>
+    <post>CEO</post>
+    <salary>45000</salary>
+    <gender>female</gender>
+    <username>Isha</username>
+    <password>Acez</password>
+  </employee>
+</TU>
